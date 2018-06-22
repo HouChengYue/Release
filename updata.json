@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "message": "\"请求成功!\"",
+  "data": {
+    "versionCode": 30,
+    "versionName": "\"1.0.2.20.30\"",
+    "isFous": false,
+    "date": "2018-6-22",
+    "updataDetail": "\"updataDetail\""
+  }
+}
