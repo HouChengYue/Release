@@ -2,12 +2,12 @@
   "code": 200,
   "message": "请求成功!",
   "data": {
-    "versionCode": 33,
-    "versionName": "1.0.2.6.28",
+    "versionCode": 34,
+    "versionName": "1.0.2.7.2",
     "isFous": false,
-    "date": "2018-6-26",
+    "date": "2018-7-2",
     "apkUrl":"",
     "size":"21.7M",
-    "updataDetail": "1、地理位置签到选择日期为签到的所有日期，默认当天如无签到提示无签到任务。 2、学习码激活项目选择区域层级一层层选择，优化提示语等。"
+    "updataDetail": "优化短信获取验证码部分。"
   }
 }
