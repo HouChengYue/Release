@@ -2,7 +2,7 @@
   "code": 200,
   "message": "请求成功!",
   "data": {
-    "versionCode": 35,
+    "versionCode": 34,
     "versionName": "1.0.2.7.17",
     "isFous": false,
     "date": "2018-7-17",
